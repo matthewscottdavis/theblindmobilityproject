@@ -1,6 +1,6 @@
 # Research of Blind Mobility Aid Research, Projects, and Products
 
-[Motivation](#echo-location)  
+[Motivation](#motivation)  
 [Definitions](#definitions)  
 [Research Projects](#research-projects)  
 [Products](#products)  
