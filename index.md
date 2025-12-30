@@ -1,10 +1,11 @@
 # Research of Blind Mobility Aid Research, Projects, and Products
 
-## Motivation
-## Guiding Principles
-## Definitions
-## Research Projects
-## Products
+[Motivation](/#echo-location)
+Guiding Principles
+Definitions
+Research Projects
+Products
+Conclusion
 
 ##Definitions
 ### Echo Location
