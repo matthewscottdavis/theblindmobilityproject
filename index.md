@@ -1,32 +1,23 @@
 # Research of Blind Mobility Aid Research, Projects, and Products
 
 [Motivation](#motivation)  
+[Primary Focus](#primary-focus)
+[Future Focus](#future-focus)
 [Initial Impressions](#initial-impressions)
-[Research Projects](#research-projects)  
-[Products](#products)  
-[Moving Forward](#moving-forward)  
-[Definitions](#definitions)  
+[Development Stages](#development-plan)
 
 ## Motivation  
-My wife is blind and suffers greatly from carpal and cubital tunnel from using a white cane for over 40 years. I intend to develop or facilitate the development of a wearable device that can substantially reduce her need to use the back and forth motion of her white cane.   
+My wife is blind and suffers greatly from carpal and cubital tunnel due to using a white cane for over 40 years.  
+
+## Primary Focus
+A video capture (or similar) app that provides at least 80 percent of the information a white cane can currently provide.
+
+## Future Focus
+Functional extensions beyond the primary focus (reading street signs, for example). These are all to be tackled only AFTER the primary focus is achieved.
 
 ## Initial Impressions  
-I was shocked to see how many research projects and products there were out there that I have never heard of. The writing on the wall for these efforts is that they have not been widely adopted and so they are not widely known. Is the task too hard? Is there some fundamental shift in thinking about how the products should work? I am determined to find out and have compiled the list of projects and products along with my impressions of each.  
+Many projects and products have come and gone... beginning long before the current AI boom. None has managed to significantly improve the capabilities of a simple white cane.
 
-## Research Projects
-
-## Products
-
-## Moving Forward
-
-## Definitions
-Sensor: Video - mono, stereo, or multiple video cameras to capture infromation about surroundings.  
-Sensor: Lidar - Lignt based 'radar'  
-Sensor: Radar - radio wave radar  
-Sensor: Sonar - sound wave 'radar' (including ultrasonic)  
-Sensor: Combined - also possible to use a combination of the above  
-
-Feedback: Haptic  
-Feedback: Audio Tonal  
-Feedback: Audio Descriptive 
+## Development Plan
+1) Extensive tests to determine the base audible feedback plan. 
 
