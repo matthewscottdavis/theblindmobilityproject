@@ -1,10 +1,10 @@
 # Research of Blind Mobility Aid Research, Projects, and Products
 
 [Motivation](#motivation)  
-[Primary Focus](#primary-focus)
-[Future Focus](#future-focus)
-[Initial Impressions](#initial-impressions)
-[Development Stages](#development-plan)
+[Primary Focus](#primary-focus)  
+[Future Focus](#future-focus)  
+[Initial Impressions](#initial-impressions)  
+[Development Stages](#development-plan)  
 
 ## Motivation  
 My wife is blind and suffers greatly from carpal and cubital tunnel due to using a white cane for over 40 years.  
